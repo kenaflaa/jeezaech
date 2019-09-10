@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uoxuiheima.wanghusw.top/sitemap.xml
